@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "primesobhan@gmail.com",
+    "password": "sobhan106",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
+    "100043588132979",
     ""
   ],
   "whiteListMode": {
@@ -25,12 +25,12 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
-  "AGE": "18",
+  "OWNER": "S O B H A N ",
+  "AGE": "16",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "nickNameBot": "N E Z U K O",
+  "FACEBOOK": "https://www.facebook.com/moodsobhan",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
